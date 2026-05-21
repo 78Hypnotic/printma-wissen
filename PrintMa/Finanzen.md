@@ -1,6 +1,6 @@
 # Finanzen – PrintMa
 
-> Übersicht über bekannte Konten und Steuerthemen (Stand: 2025-05-21)
+> Übersicht über Konten, Steuernummern und Steuerthemen (Stand: 2025-05-21)
 
 ## Konten
 
@@ -17,6 +17,25 @@
 - **Amazon Seller** – Marketplace
 - **TikTok Shop** – Wachsender Kanal
 
+## Steueridentifikationsnummern (IdNr)
+
+| Person | IdNr |
+|---|---|
+| Manuel Hohlwegler | 94503827628 |
+| Maurice Hohlwegler | 93401867568 |
+
+## Steuernummern
+
+| Person | Steuernummer |
+|---|---|
+| Manuel Hohlwegler | 18531/30483 |
+| Maurice Hohlwegler | 18531/31522 |
+
+## PrintMa GbR
+
+- **Steuernummer:** 18075/53778
+- **USt-IdNr:** DE363591941
+
 ## Steuerberater
 
 **Teufel & Kirchmann**
@@ -32,9 +51,8 @@
 
 ## Offene Punkte
 
-- [ ] Genaue Einnahmen/Ausgaben erfassen
 - [ ] Filament-Kosten dokumentieren
 - [ ] Verpackungskosten dokumentieren
 - [ ] DHL Versandkosten dokumentieren
+- [ ] Genaue Einnahmen/Ausgaben erfassen
 - [ ] Umsatzsteuervoranmeldung klären (monatlich/quartalsweise)
-- [ ] Kleinunternehmerregelung (§19 UStG) prüfen
