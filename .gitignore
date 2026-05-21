@@ -1,0 +1,19 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/cache/
+.obsidian/icons/
+.obsidian/*.html
+.obsidian/plugins/*/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.bak
+
+# Exclude mobile-specific
+!.obsidian/.gitkeep
