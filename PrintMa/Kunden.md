@@ -20,3 +20,4 @@
 
 - [ ] DSGVO-konforme Datenspeicherung prüfen
 - [ ] Weitere B2B Kunden dokumentieren
+test Thu May 21 19:00:17 UTC 2026
